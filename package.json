@@ -1,0 +1,33 @@
+{
+  "name": "bienesraices230892",
+  "version": "1.0.0",
+  "description": "Proyecto de Clase para ña Unidad 2 de Awos utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevFntxy/BienesRaices230892.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize\"",
+    "MySQL",
+    "TailwindCSS",
+    "",
+    "Nodemon",
+    "NodeJS",
+    "PUG",
+    "NodeMailer",
+    "Mailrap",
+    "JWT"
+  ],
+  "author": "Derek Sesni Carreño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevFntxy/BienesRaices230892/issues"
+  },
+  "homepage": "https://github.com/DevFntxy/BienesRaices230892#readme"
+}
